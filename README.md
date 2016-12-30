@@ -1,4 +1,4 @@
-# javascript-link-hightlighter
+# javascript-link-highlighter
 
 30 day vanilla javascript
 
